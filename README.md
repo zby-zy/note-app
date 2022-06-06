@@ -1,8 +1,8 @@
 # Note App
 ## Framework
-* Django
+* flask
 ### How to install Django
-`pip install django`
+`pip install flask`
 ## Database
 * PostgreSQL
 
